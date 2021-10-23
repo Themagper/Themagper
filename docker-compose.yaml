@@ -10,7 +10,7 @@ services:
       - PUID=1000
       - PGID=1000
       - TZ=America/Mendoza
-      - SERVERURL=1.1.1.1 #optional
+      - SERVERURL=104.248.226.13 #optional
       - SERVERPORT=51820 #optional
       - PEERS=50 #optional
       - PEERDNS=auto #optional
